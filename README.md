@@ -32,3 +32,8 @@ This project is to depict a phobia and help the user over coming their fear usin
 * Play the scene in the Unity Editor (`CTRL` + `P`).
 * The scene should automatically play within any Unity supported XR hardware.
 
+### Commits/Pushes
+* 10.16.21 - 8pm: Project is initally pushed
+* 10.18.21 - 12pm: An attempt to fix the missing prefabs was made by pulling and then pushing back to github referencing piazza post @46
+* 10.18.21 - 5pm: An edit was made to the packages file to add in the missing prefabs. This fixed the problem!
+
