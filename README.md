@@ -1,4 +1,4 @@
-[![VRTK logo][VRTK-Image]](#)
+<img width="767" alt="thumbnail" src="https://user-images.githubusercontent.com/77754518/137814851-3e575c28-6783-4956-ad27-06754e840a0d.PNG">
 
 # VR Bowling Game Tutorial
 
